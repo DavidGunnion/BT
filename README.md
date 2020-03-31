@@ -8,4 +8,4 @@ My responsibilities included:
 * Programming the peer-to-peer client
 * Contributing to the report
 
-I have included source code and exeucatble for the client but only the executable for the tracker as I didn't write it. There are few code comments but the included [report](https://github.com/DavidGunnion/BT/blob/master/BT%20Spec%20and%20Documentation.pdf) expains how it functions in some detail.
+I have included source code and the exeucatble jar file for the client but only the executable for the tracker as I didn't write it. There are few code comments but the included [report](https://github.com/DavidGunnion/BT/blob/master/BT%20Spec%20and%20Documentation.pdf) expains how it functions in some detail.
